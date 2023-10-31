@@ -1,5 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DJ%20Github&fontSize=90" width=100% />
 
+<div align=center><h1>✨ Introduction</h1></div>
+<div align=center>
+  반갑습니다! 함께 성장하는 개발자 한동진입니다.
+  빠르게 변화하는 IT 시대에서 팀과 함께 발전하길 추구합니다.
+  좋은 코드를 작성하기 위해 좋은 질문을 갈구하고 좋은 표현에 대해 고민합니다.
+</div>
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
   <div>
