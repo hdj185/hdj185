@@ -7,6 +7,8 @@
   <p>좋은 코드를 작성하기 위해 좋은 질문을 갈구하고 좋은 표현에 대해 고민합니다.</p>
 </div>
 
+<br>
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
   <div>
@@ -51,6 +53,8 @@
     <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge"/>
   </div>
 </div>
+
+<br>
 
 <div align=center><h1>📞 Contact</h1></div>
 <div align=center>
