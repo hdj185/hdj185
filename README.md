@@ -58,10 +58,6 @@
 
 <div align=center><h1>📞 Contact</h1></div>
 <div align=center>
-    <a href="mailto:hdj185583@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    <a href="https://open.kakao.com/o/sH7gSHPf">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
+    <a href='mailto:hdj185583@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335&color=EA4335'/></a>
+    <a href='https://open.kakao.com/o/sH7gSHPf' target="_blank"><img alt='kakaotalk' src='https://img.shields.io/badge/KAKAOTALK-100000?style=for-the-badge&logo=kakaotalk&logoColor=000000&labelColor=FFCD00&color=FFCD00'/></a>
 </div>
