@@ -1,13 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DJ%20Github&fontSize=90" width=100% />
 
-<div align=center><h1>✨ Introduction</h1></div>
-<div align=center>
-  <p>반갑습니다! 함께 성장하는 개발자 한동진입니다.</p>
-  <p>빠르게 변화하는 IT 시대에서 팀과 함께 발전하길 추구합니다.</p>
-  <p>좋은 코드를 작성하기 위해 좋은 질문을 갈구하고 좋은 표현에 대해 고민합니다.</p>
-</div>
-
-<br>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
@@ -55,9 +47,3 @@
 </div>
 
 <br>
-
-<div align=center><h1>📞 Contact</h1></div>
-<div align=center>
-    <a href='mailto:hdj185583@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/GMAIL-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=EA4335&color=EA4335'/></a>
-    <a href='https://open.kakao.com/o/sH7gSHPf' target="_blank"><img alt='kakaotalk' src='https://img.shields.io/badge/KAKAOTALK-100000?style=for-the-badge&logo=kakaotalk&logoColor=000000&labelColor=FFCD00&color=FFCD00'/></a>
-</div>
